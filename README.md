@@ -1,7 +1,7 @@
 # NationalityGame
 my first JavaScript game 😅
 
-#game story: 
+# game story: 
 A white screen with 4 boxes on the 4 corners of the screen.
 
 Each box will have a text on it reading ""Japanese"", ""Chinese"", ""Korean"" and ""Thai"".
