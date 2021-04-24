@@ -4,7 +4,7 @@ my first JavaScript game 😅
 # Game Story: 
 A white screen with 4 boxes on the 4 corners of the screen.
 
-Each box will have a text on it reading ""Japanese"", ""Chinese"", ""Korean"" and ""Thai"".
+Each box will have a text on it reading "Japanese", "Chinese", "Korean" and "Thai".
 
 From the middle top of the screen, the photo of a person should drop and slowly go to the bottom of the screen within 3 seconds.
 
