@@ -1,0 +1,49 @@
+[{
+        "image": "./src/chinese-01.jpg",
+        "nationality": "chinese"
+    },
+    {
+        "image": "./src/chinese-02.jpg",
+        "nationality": "chinese"
+    },
+    {
+        "image": "./src/chinese-03.jpg",
+        "nationality": "chinese"
+    },
+    {
+        "image": "./src/japanese-01.jpg",
+        "nationality": "japanese"
+    },
+    {
+        "image": "./src/japanese-02.jpg",
+        "nationality": "japanese"
+    },
+    {
+        "image": "./src/japanese-03.jpg",
+        "nationality": "japanese"
+    },
+    {
+        "image": "./src/korean-01.jpg",
+        "nationality": "korean"
+    },
+    {
+        "image": "./src/korean-02.jpg",
+        "nationality": "korean"
+    },
+    {
+        "image": "./src/korean-03.jpg",
+        "nationality": "korean"
+    },
+    {
+        "image": "./src/thai-01.jpg",
+        "nationality": "thai"
+    },
+    {
+        "image": "./src/thai-02.jpg",
+        "nationality": "thai"
+    },
+    {
+        "image": "./src/thai-03.jpg",
+        "nationality": "thai"
+    }
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Geeks Game</title>
+
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./fonts.css" />
+    <link rel="shortcut icon" href="./src/favicon.png" />
+
+    <script src="./main.js" defer></script>
+</head>
+
+<body>
+    <img id="logo" src="./src/logo.png" />
+    <div id="container">
+        <div id="game-timer">
+            <span>3000 ms</span>
+        </div>
+        <div id="game-board">
+            <img id="question-image" src="./src/01.png" draggable="true" />
+            <div class="choice" id="japanese">
+                <div class="choice-title-left">Japanese</div>
+                <div class="choice-badge-left" id="japanese-badge">0</div>
+            </div>
+            <div class="choice" id="chinese">
+                <div class="choice-title-right">Chinese</div>
+                <div class="choice-badge-right" id="chinese-badge">0</div>
+            </div>
+            <div class="choice" id="korean">
+                <div class="choice-title-left">Korean</div>
+                <div class="choice-badge-left" id="korean-badge">0</div>
+            </div>
+            <div class="choice" id="thai">
+                <div class="choice-title-right">Thai</div>
+                <div class="choice-badge-right" id="thai-badge">0</div>
+            </div>
+            <div class="end-line"></div>
+            <div id="start-button"><span>Start</span></div>
+        </div>
+        <div id="game-point">
+            <span>Total Point : 0</span>
+        </div>
+    </div>
+</body>
+
+</html>
